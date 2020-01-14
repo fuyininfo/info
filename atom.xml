@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fuyininfo.github.io/info</id>
+    <id>https://fuyininfo.github.io/</id>
     <title>复印info</title>
-    <updated>2020-01-14T16:05:28.608Z</updated>
+    <updated>2020-01-14T16:17:47.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fuyininfo.github.io/info"/>
-    <link rel="self" href="https://fuyininfo.github.io/info/atom.xml"/>
+    <link rel="alternate" href="https://fuyininfo.github.io/"/>
+    <link rel="self" href="https://fuyininfo.github.io/atom.xml"/>
     <subtitle>复印是info的音意互转，是一家方便邻里的打印店，同时也方便知识的共享/流动/DIY；并以此为起点寻找联合的可能性。</subtitle>
-    <logo>https://fuyininfo.github.io/info/images/avatar.png</logo>
-    <icon>https://fuyininfo.github.io/info/favicon.ico</icon>
+    <logo>https://fuyininfo.github.io/images/avatar.png</logo>
+    <icon>https://fuyininfo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 复印info</rights>
     <entry>
         <title type="html"><![CDATA[热烈欢迎定海桥互助社朋友前来武汉东湖：纸导工作]]></title>
-        <id>https://fuyininfo.github.io/info/post/181212dinghaiqiao-poster.info-002</id>
-        <link href="https://fuyininfo.github.io/info/post/181212dinghaiqiao-poster.info-002">
+        <id>https://fuyininfo.github.io/post/181212dinghaiqiao-poster.info-002</id>
+        <link href="https://fuyininfo.github.io/post/181212dinghaiqiao-poster.info-002">
         </link>
         <updated>2018-12-12T15:03:36.000Z</updated>
         <content type="html"><![CDATA[<h2 id="热烈欢迎定海桥互助社朋友前来武汉东湖">热烈欢迎定海桥互助社朋友前来武汉东湖：</h2>
