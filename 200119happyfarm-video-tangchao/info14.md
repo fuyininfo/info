@@ -1,7 +1,6 @@
 # 去偷菜！
 ## 唐潮 & 复(in)印(fo)放(火)映(锅)会
 
-<iframe height=498 width=510 src='https://github.com/fuyininfo/info/blob/master/200119happyfarm-video-tangchao/tangchao-fuyininfo-2020-01-01.mp4' frameborder=0 'allowfullscreen'></iframe>
 
 唐潮最近“重返”[开心网](https://www.kaixin001.com/)，_发现这里已经变成了网络地理空间里的一个废墟/遗迹/无人区，起码是人烟稀少的，_ 当然广告屏幕仍在播放(渣渣辉升职记)；十年前该网和另一个已改名的站点最先仿造脸书虚拟社区，让“[偷菜](https://www.zhihu.com/question/26082017)”几乎成为全民运动。他在被废弃的农场开始种植，进行一些拍摄劳动及相关的思考。
 
