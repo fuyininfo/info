@@ -1,4 +1,5 @@
 ## 在网络上如何问邻居借盐：Web3 时代的全球化技术和本地实践；BORROWING SALT FROM NETWORK NEIGHBORS: GLOBAL TECHNOLOGIES AND LOCAL PRACTICES IN THE WEB 3 ERA
+![网络社会年会7武汉圆桌海报](https://raw.githubusercontent.com/fuyininfo/info/master/221126acns7wuhanpanelpst.jpg)
 
 召集人：**子杰、Bruce、Tony**
 主持人：**Tony**
@@ -17,9 +18,11 @@
 >*跟人借盐似乎是另一种类似于上门通渠修水管的表达，连接邻居的网络就像管渠交叉一样把声色情意传递。以往的叙述里，在网络上问邻居借点什么是一种舍近求远的方式：因为发送者的信息需要先到达（可能远在另一个城市甚至对跖点的异域的）服务器，再由服务器传送到接收者手上；身体和身体的焦虑关系在远和近的恍惚变化里存有了一份浪漫。而在web3.0的描述里，这种曲折被去中心的各个节点间的联络所替代，信息不用经由中心分发，邻居和邻居之间、盐和邻居之间、盐和盐之间形成各式各样的网络，四通八达。*
 >*这个连接是否一定需要实时参与到全球网络里去，或者说是“敲击鼠标”还是敲门？全球化网络和技术怎么影响盐的口感和我们的口舌之欲？怎么延续或创造这身体和身体的浪漫，连承载浪漫的器具都独一无二，或光滑粘手或突点糙粝或褶皱密致？借了是不是一定要还？还点别的可以吗？这个社区又应该是什么样的？*
 >*带着这些问题，我们选择不回答。并邀请了做数字榫卯的胡鹏程、做录像带档案整理研究的覃岛、《二十面体》的编辑tony、喜欢研究技术之政治的Bruce、玩转空间与产品设计的weiwei、通过印刷方便知识流动的子杰和DIY艺术的jojo等朋友一同参与网络社会年会的这次武汉圆桌，线下敲开门面对面聊天谈话，分享各自的工作。*
->
->关键词：#本地、#DIY、#适当技术
->参考书目：《全球概览》、《地图不是疆域》、《making room: culture production in occupied space》、《utopia drive: a road trip through american’s most radical idea》、《communes in counter culture》《[A City is not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)》、《技术垄断》（Technopoly） …
+> 
+> ***
+> 
+>> - 关键词：#本地、#DIY、#适当技术
+>> - 参考书目：《全球概览》、《地图不是疆域》、《making room: culture production in occupied space》、《utopia drive: a road trip through american’s most radical idea》、《communes in counter culture》《[A City is not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/)》、《技术垄断》（Technopoly） …
 
 ## 与会嘉宾 ##
 ### ==胡鹏程==
@@ -70,4 +73,20 @@ Weiwei喜欢在玩具设计，空间设计，还有产品设计之间来回穿�
 //[网页里的电脑博物馆](http://www.compumuseum.com/)
 //知乎专栏：古董电脑室
 
+## 活动流程 ##
+| 时间 | 内容 | 发言人 |
+| --- | --- | --- |
+| 14:00-15:20 | 艺术家工作分享（4位，每位艺术家15-20分钟时间） | 胡鹏程、覃岛、Tony、Bruce |
+| 15:20-15:35 | 不告诉你的离线1/4小时 | 中场随便干嘛 |
+| 15:35-16:35 | 艺术家工作分享（3位，每位艺术家15-20分钟时间） | Weiwei(徐子薇)、子杰、jojo |
+| 16:35-17:25 | 回应和讨论 | 周蓬岸和其他在场者 |
 
+## 场地支持 ##
+- 派对朋友的飞船：派对朋友的飞船是一家致力于人人参与可持续发展的团体，使用数字榫卯技术让建造变成普通人的工具，同时利用数字榫卯开源课程和可持续课题，为激励儿童和年轻人持续探索这个世界做出努力。我们希望可以用木材这样一种兼顾可持续、创新和可控成本的材料，创造一个突破设计和建造的界限，展示未来建筑，教育和低碳生活的应用。
+- 复印info：复印info是武汉的一个信息站（infoshop）和印刷工作室。复印是info的音意互转，在方便邻里的打印的同时也方便知识的共享/流动/DIY；并以此为起点寻找联合的可能性。
+
+***
+
+### ==有意参与武汉圆桌的当时线下会场的朋友，可以写邮件到== <fuyininfo@disroot.org> ==报名。因为场地空间限制，名额定量，会有筛选。请在来信里简要介绍自己和写明对会议议题的兴趣缘由。== ###
+
+更多信息：  [武汉场信息在网络社会研究所ins](https://www.caa-ins.org/archives/9711)；[杭州场](https://www.caa-ins.org/archives/9631)、[北京场](https://www.caa-ins.org/archives/9729)、[台北场](https://www.caa-ins.org/archives/9845)；[香港场](https://www.caa-ins.org/archives/9923)、[上海场](https://www.caa-ins.org/archives/10052)、[旧金山场](https://www.caa-ins.org/archives/10123)……
