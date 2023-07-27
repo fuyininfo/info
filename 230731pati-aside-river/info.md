@@ -1,0 +1,1 @@
+去年8月初时武汉的一群朋友到广州搞“[粤汉走地龙](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxNDM4OTY0Ng==&action=getalbum&album_id=2521647082160783360)”拜访广州的城中村[和当地](https://www.instagram.com/p/CjUZjGBLj79/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)奇怪空间。最近广州朋友们来武汉回访，正好松本哉和金建宇同行，我们打算在7月31号晚上在江边野地做一夜“粤汉走（地X水）龙”！欢迎来汉的朋友们。
